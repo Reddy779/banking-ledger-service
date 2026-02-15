@@ -21,5 +21,8 @@
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.2.1",
     "nodemailer": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.3"
   }
 }
