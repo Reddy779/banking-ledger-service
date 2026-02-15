@@ -11,4 +11,8 @@ router.post("/register", authController.userRegisterController);
 router.post("/login", authController.userLoninController)
 
 
+/* POST /api/auth/logout */
+router.post("/logout", authController.userLogoutController)
+
+
 module.exports = router;
